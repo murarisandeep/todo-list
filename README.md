@@ -8,4 +8,6 @@ A simple and interactive To-Do List Web App built using HTML, CSS, and JavaScrip
 Frontend: HTML, CSS, JavaScript
 
 Data Persistence: Local Storage
+
+
 Depolyed at : https://murarisandeep.github.io/todo-list/
